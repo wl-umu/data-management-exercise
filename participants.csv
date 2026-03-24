@@ -1,8 +1,0 @@
-id,sex,birth_date,site,diagnosis
-001,F,1980-05-11,Umea,HTN
-002,M,1975-02-01,Umea,diabetes
-003,Female,1990-09-22,Lund,"HTN,Diabetes"
-004,M,1988-12-12,Umea,NA
-004,M,1988-12-12,Umea,HTN
-005,F,1970-07-07,Lund,
-006,M,1995-03-01,Umea,Diabetes
